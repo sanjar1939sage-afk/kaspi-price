@@ -10,7 +10,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="5.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">2082</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">2080</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
         <ns0:offer sku="165724988_312073657">
@@ -20,7 +20,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="4.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">7291</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">7289</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
         <ns0:offer sku="131731201_861723281">
@@ -30,7 +30,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="1.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">1712</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">1710</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
         <ns0:offer sku="120499234_252874190">
@@ -50,7 +50,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="4.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">6581</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">6579</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
         <ns0:offer sku="116045361_887407072">
@@ -70,7 +70,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="6.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">2134</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">2132</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
         <ns0:offer sku="129403960_905815433">
@@ -80,7 +80,7 @@
                 <ns0:availability available="yes" storeId="30475958_PP1" preOrder="0" stockCount="5.0" />
             </ns0:availabilities>
             <ns0:cityprices>
-                <ns0:cityprice cityId="750000000">689</ns0:cityprice>
+                <ns0:cityprice cityId="750000000">687</ns0:cityprice>
             </ns0:cityprices>
         </ns0:offer>
     </ns0:offers>
